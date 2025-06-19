@@ -13,9 +13,8 @@
 
 ### Материалы
 
-* [1, 3 поток](https://github.com/victorkitov/DL) (лектор: Китов Виктор Владимирович)
-* [2 поток, ФИИТ](https://github.com/girafe-ai/ml-course/tree/23f_msu_dl) (лекторы: Радослав Нейчев, Владислав Гончаренко)
-* [Лекции 2 потока + ФИИТ](tbd)
+* 1+3 поток (лектор: Китов Виктор Владимирович): [авторский учебник](https://deepmachinelearning.ru/docs/Neural-networks/book-title), [слайды](https://github.com/victorkitov/DL), [записи](https://docs.google.com/document/d/1Pou4KtF_OIANnV_HFfFwGWIytVsGXcisPV4Rw_M4mbM/edit?usp=sharing)
+* 2 поток, ФИИТ (лекторы: Радослав Нейчев, Владислав Гончаренко): [материалы](https://github.com/girafe-ai/ml-course/tree/23f_msu_dl)
 
 ### Дополнительные материалы
 [Работа с jupyter notebook и python](https://youtube.com/playlist?list=PLzdAwQrglFyIkkvIlUeo_xX08WvKM6L0-)
